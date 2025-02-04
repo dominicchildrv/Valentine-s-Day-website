@@ -103,7 +103,7 @@ const ValentineQuestion: React.FC = () => {
             }}
           >
             <h2 style={{ fontSize: '2.5rem', color: '#d6336c' }}>
-              Will you be Dominic's valentine?
+              Will you be Dominics valentine?
             </h2>
             <div
               style={{
@@ -233,10 +233,10 @@ const ValentineQuestion: React.FC = () => {
                 I love you Zhirinda
               </p>
               <p style={{ fontSize: '2rem', margin: '0.5rem' }}>
-                I can't wait to see you on valentines day
+                I cant wait to see you on valentines day
               </p>
               <p style={{ fontSize: '2rem', margin: '0.5rem' }}>
-                I'm so lucky to have you as my valentine
+                Im so lucky to have you as my valentine
               </p>
               <p style={{ fontSize: '2rem', margin: '0.5rem', fontStyle: 'italic' }}>
                 Love Dominic
